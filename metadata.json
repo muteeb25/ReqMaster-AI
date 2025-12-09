@@ -1,0 +1,7 @@
+{
+  "name": "ReqMaster AI",
+  "description": "An intelligent requirements-gathering chatbot that structures stakeholder needs into functional, non-functional, and domain categories.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
